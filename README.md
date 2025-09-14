@@ -71,7 +71,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/basedhound/gta-gsap_react.git
+https://github.com/Programmer-DN-AI/gta-gsap_react.git
 ```
 
 **Installation**
